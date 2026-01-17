@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.pyc
+
+# Databases
+*.db
+
+# Large scraped files
+*.html
+*.txt
+
+# OS
+.DS_Store
+Thumbs.db
